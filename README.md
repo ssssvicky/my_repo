@@ -1,5 +1,5 @@
 # SF Crime Data Analysis Spark
-In this notebook, I use Spark SQL for big data analysis on SF crime data.
+In this notebook, I use Spark SQL and python for big data analysis on SF crime data.
 Datase can be found:https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
 
 - Visualize the distribution of all the incidents using the longitude and latitude information
